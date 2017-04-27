@@ -1,1 +1,1 @@
-export { Switch as default } from 'react-router'
+export { Switch as default } from '@fabrictech/react-router'

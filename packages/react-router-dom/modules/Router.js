@@ -1,1 +1,1 @@
-export { Router as default } from 'react-router'
+export { Router as default } from '@fabrictech/react-router'

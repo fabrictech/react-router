@@ -1,1 +1,1 @@
-export { Redirect as default } from 'react-router'
+export { Redirect as default } from '@fabrictech/react-router'

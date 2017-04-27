@@ -1,1 +1,1 @@
-export { matchPath as default } from 'react-router'
+export { matchPath as default } from '@fabrictech/react-router'
