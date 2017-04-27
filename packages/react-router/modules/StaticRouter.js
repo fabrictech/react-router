@@ -1,7 +1,7 @@
 import invariant from 'invariant'
 import React from 'react'
 import PropTypes from 'prop-types'
-import { addLeadingSlash, createPath, parsePath } from 'history/PathUtils'
+import { addLeadingSlash, createPath, parsePath } from '@fabrictech/history/PathUtils'
 import Router from './Router'
 
 const normalizeLocation = (object) => {

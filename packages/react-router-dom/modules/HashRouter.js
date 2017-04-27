@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import createHistory from 'history/createHashHistory'
+import createHistory from '@fabrictech/history/createHashHistory'
 import { Router } from '@fabrictech/react-router'
 
 /**
